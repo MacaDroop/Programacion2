@@ -1,0 +1,7 @@
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mariana Guevara\Desktop\Programacion2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
